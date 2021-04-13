@@ -6,5 +6,7 @@ public class Dato {
 
         System.out.println("Syyyyyyygt bro!!");
 
+        System.out.println("SKRRRRRRT");
+
     }
 }
