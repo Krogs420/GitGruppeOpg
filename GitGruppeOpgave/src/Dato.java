@@ -4,5 +4,7 @@ public class Dato {
 
         System.out.println("Tirsdag d. 13 April :-)");
 
+        System.out.println("Syyyyyyygt bro!!");
+
     }
 }
